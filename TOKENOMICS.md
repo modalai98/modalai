@@ -6,7 +6,7 @@ Token Name: ModalAI
 Ticker: MODALAI  
 
 Total Supply  
-1,000,000,000 MODALAI
+100,000,000,000 MODALAI
 
 ---
 
