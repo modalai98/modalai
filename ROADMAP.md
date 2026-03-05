@@ -1,18 +1,33 @@
-# ModalAI Roadmap
+# MODALAI Roadmap
 
 ## Phase 1
+
 Project concept  
-Community building  
-Brand development  
+AI research  
+Token creation  
+Community building
+
+---
 
 ## Phase 2
-AI model research  
-Platform prototype  
+
+Platform development  
+AI integrations  
+Community growth  
+Partnership exploration
+
+---
 
 ## Phase 3
+
 Beta platform launch  
-Creator onboarding  
+Creator tools  
+AI generation services
+
+---
 
 ## Phase 4
-Marketplace ecosystem  
-DAO governance
+
+Full ecosystem launch  
+Global expansion  
+Advanced AI features
