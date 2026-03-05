@@ -1,21 +1,45 @@
-# ModalAI Whitepaper
+# MODALAI Whitepaper
 
-ModalAI is a multi-modal generative AI ecosystem designed to combine artificial intelligence and decentralized technologies.
+## Introduction
 
-## Problem
+ModalAI is a next-generation multi-modal generative AI platform that combines artificial intelligence and blockchain technology.
 
-Content creation tools are often centralized and limit creator ownership.
+The project aims to create a decentralized ecosystem where users can generate digital content using AI tools powered by Web3 infrastructure.
 
-## Solution
+---
 
-ModalAI provides an AI platform that allows creators to generate content directly from prompts while integrating Web3 mechanisms.
+## Vision
 
-## Key Technology
+Our vision is to empower creators with powerful AI tools while ensuring transparent and decentralized ownership through blockchain technology.
 
-- Generative AI models
-- Multi-modal architecture
-- Decentralized ecosystem
+---
 
-## Future Vision
+## Technology
 
-Building a creator economy powered by AI.
+ModalAI integrates:
+
+• Multi-modal AI models  
+• Web3 infrastructure  
+• decentralized creator economy  
+
+---
+
+## Ecosystem
+
+The ModalAI ecosystem enables users to generate AI content such as:
+
+• music  
+• voice  
+• video  
+• digital media
+
+---
+
+## Token Utility
+
+The MODALAI token will be used for:
+
+• AI generation credits  
+• governance participation  
+• ecosystem access  
+• community rewards
