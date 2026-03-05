@@ -1,15 +1,38 @@
-# ModalAI Tokenomics
+# MODALAI Tokenomics
+
+## Token Information
 
 Token Name: ModalAI  
 Ticker: MODALAI  
 
+Total Supply  
+1,000,000,000 MODALAI
+
+---
+
+## Distribution
+
+Community — 40%  
+Liquidity — 20%  
+Development — 15%  
+Ecosystem — 15%  
+Marketing — 10%
+
+---
+
 ## Utility
 
-- Platform access
-- Creator rewards
-- Governance participation
-- Ecosystem transactions
+The MODALAI token powers the ModalAI ecosystem.
 
-## Vision
+Token utility includes:
 
-The token will power the entire ModalAI ecosystem.
+• AI generation credits  
+• governance participation  
+• ecosystem access  
+• community incentives  
+
+---
+
+## Ecosystem
+
+MODALAI will be used across the AI platform to access generative AI services and support creator economy growth.
