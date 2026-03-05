@@ -1,89 +1,97 @@
 <div align="center">
 
+<img src="assets/logo.png" width="180"/>
+
 # MODALAI
 
-### AI x Web3 Generative Platform
+### AI × Web3 Generative Platform
 
-🚀 **$MODALAI Official Launch**
-
-ModalAI is a next-generation **multi-modal generative AI platform** combining artificial intelligence and Web3 technology.
-
-Generate content like **music, voice, and short videos** directly from simple prompts.
+![AI](https://img.shields.io/badge/AI-MultiModal-blue)
+![Web3](https://img.shields.io/badge/Web3-Ecosystem-purple)
+![Solidity](https://img.shields.io/badge/Solidity-SmartContract-black)
+![Status](https://img.shields.io/badge/Token-LAUNCHED-green)
 
 </div>
 
 ---
 
-# 🚀 MODALAI TOKEN LAUNCHED
+# 🚀 MODALAI Token Launch
 
-The **$MODALAI token** has officially launched.
+**$MODALAI has officially launched.**
 
-ModalAI aims to build a decentralized AI creation ecosystem where users can generate content and participate in the AI economy.
+ModalAI is building a **multi-modal generative AI ecosystem** powered by Web3 infrastructure.
+
+The platform allows users to create AI-generated content such as:
+
+• Music  
+• Voice  
+• Short videos  
+• AI media assets  
+
+All generated from **simple prompts**.
 
 ---
 
-# 🔥 What is ModalAI
+# 🧠 What is ModalAI
 
-ModalAI is a **multi-modal AI generation platform** designed to bring artificial intelligence tools into Web3.
+ModalAI is a **decentralized AI generation platform** designed to merge artificial intelligence with blockchain technology.
 
-Users can generate content using simple prompts such as:
+Users can generate digital content using prompts such as:
 
-- Music
-- Voice
-- Short videos
-- AI generated media
+```
+Create a cinematic orchestral soundtrack with epic atmosphere
+```
 
-ModalAI connects **AI generation + blockchain ownership**.
+The system generates the content instantly.
+
+ModalAI brings **AI creation tools into Web3**.
 
 ---
 
 # ⚡ Core Features
 
-### AI Content Generation
+## Multi-Modal AI Generation
 
-Create digital content instantly using AI.
+ModalAI supports multiple types of AI generated content:
 
-Prompt example:
-
-```
-create a futuristic electronic music track with robotic vocals
-```
-
-The system generates the content automatically.
+• Music generation  
+• Voice synthesis  
+• Short video generation  
+• AI media creation  
 
 ---
 
-### Web3 Infrastructure
+## Web3 Infrastructure
 
-ModalAI integrates blockchain technology to enable:
+ModalAI integrates blockchain technology to provide:
 
 • decentralized ecosystem  
-• token-powered economy  
-• transparent usage system  
+• token powered economy  
+• transparent transactions  
 
 ---
 
-### Creator Economy
+## Creator Economy
 
-ModalAI allows creators to monetize AI-generated content.
+Creators can monetize AI-generated content through the ModalAI ecosystem.
 
-This unlocks a new **AI creator economy**.
+This unlocks a **new AI creator economy**.
 
 ---
 
 # 💰 MODALAI Token
 
 Token Name  
-**ModalAI**
+ModalAI
 
 Ticker  
-**MODALAI**
+MODALAI
 
 Utility
 
 • AI generation credits  
-• ecosystem access  
-• governance participation  
+• ecosystem governance  
+• platform access  
 • community rewards
 
 ---
@@ -102,29 +110,29 @@ Development — 15%
 Ecosystem — 15%  
 Marketing — 10%
 
-More details in **TOKENOMICS.md**
+More details available in **TOKENOMICS.md**
 
 ---
 
 # 🗺 Roadmap
 
-### Phase 1
+## Phase 1
 
-Project creation  
+Project foundation  
 AI research  
 Token launch
 
-### Phase 2
+## Phase 2
 
 Platform development  
-Community growth  
-AI integrations
+Community expansion  
+AI integration
 
-### Phase 3
+## Phase 3
 
-AI platform beta  
-creator tools  
-ecosystem expansion
+Beta platform release  
+Creator tools  
+Ecosystem growth
 
 ---
 
@@ -147,9 +155,9 @@ modalai
 
 # 🔐 Security
 
-Security is important for ModalAI.
+Security is a priority for ModalAI.
 
-Please report vulnerabilities responsibly.
+If you discover a vulnerability please report responsibly.
 
 ---
 
@@ -158,11 +166,15 @@ Please report vulnerabilities responsibly.
 Twitter  
 https://x.com/ModalAI_io
 
+Website  
+https://www.modalai.io
+
 ---
 
 <div align="center">
 
-MODALAI  
+### MODALAI
+
 AI meets Web3
 
 </div>
