@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" width="180"/>
+<img src="modal.png" width="180"/>
 
 # MODALAI
 
